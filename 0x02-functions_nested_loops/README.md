@@ -10,4 +10,7 @@ A function that prints every minute of the day of Jack Bauer, starting from 00:0
 A function that prints the 9 times table, starting with 0\
 A function that adds two integers and returns the result\
 A function that prints all natural numbers from n to 98, followed by a new line\
-
+A function that prints the n times table, starting with 0\
+A program that computes and prints the sum of all the multiples\
+A program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line\
+A program that finds and prints the sum of the even-valued terms, followed by a new line\
