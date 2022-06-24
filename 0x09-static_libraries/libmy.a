@@ -1,2 +1,1 @@
-#!bin/bash
-ar -rcs libmy.a libmy.o
+ar -rcs libmy.a *.o
